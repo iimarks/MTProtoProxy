@@ -1,5 +1,5 @@
 # WeMTProtoProxy
-MTProxy For Shared Host
+MTProxy For Shared Host / Linux Server
 
 1. upload files on your host
 2. run **WeMTProxy.php** file in browser.
