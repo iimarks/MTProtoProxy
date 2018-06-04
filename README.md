@@ -1,4 +1,4 @@
-# WeMTProtoProxy
+# WeCan MTProtoProxy
 MTProxy For Shared Host / Linux Server
 
 1. upload files on your host
