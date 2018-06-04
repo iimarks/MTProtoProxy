@@ -2,7 +2,7 @@
 MTProxy For Shared Host
 
 1. upload files on your host
-2. run WeMTProxy.php file in browser.
+2. run **WeMTProxy.php** file in browser.
 3. generate secret key or use default secret key
 4. fill last form:
    *port:* opened port on your host like 8080
