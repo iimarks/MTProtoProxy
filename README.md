@@ -10,7 +10,7 @@ MTProxy For Shared Host
    *tag:* tag for promotion channel (get from @MTProxybot)  ==> not work yet
 5. Run Proxy
 6. set cron job:
-```php /home/user/WeMTProxy/WeMTProxy.php <PORT> <SECRET> <TAG>```
+```* * * * * php /home/user/WeMTProxy/WeMTProxy.php <PORT> <SECRET> <TAG>```
    
 - your host should support exe and pcnt functions.
 - if not runned for you, see php-error.log file.
