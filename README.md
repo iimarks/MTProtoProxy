@@ -1,4 +1,4 @@
-# WeCan MTProtoProxy
+# MTProtoProxy
 MTProxy For Shared Host / Linux Server
 
 1. upload files on your host
@@ -19,7 +19,4 @@ tag: tag for promotion channel (get from @MTProxybot)  [not work yet]
 - you can use it from server:
   ```# php WeMTProxy.php <PORT> <SECRET> <TAG>```
   
-  
-WeCan-Co.ir
-@WeCanCo
-@WeCanGP
+ 
