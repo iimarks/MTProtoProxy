@@ -133,7 +133,7 @@ error_reporting(E_ERROR);
 		}
 		
 		if(!file_exists('madeline.phar')){
-			$phar = file_get_contents('https://phar.madelineproto.xyz/madeline.phar?v=new');
+			$phar = file_get_contents('http://madeline.wecan-co.ir/files/madeline.phar?v=new');
 			file_put_contents('madeline.phar', $phar);
 			unset($phar);
 		}
