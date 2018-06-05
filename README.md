@@ -5,9 +5,11 @@ MTProxy For Shared Host / Linux Server
 2. run **WeMTProxy.php** file in browser.
 3. generate secret key or use default secret key
 4. fill last form:
+```
 port: opened port on your host like 8080
 secert: generated secret key 
 tag: tag for promotion channel (get from @MTProxybot)  [not work yet]
+```
 5. Run Proxy
 6. set cron job:
 ```* * * * * php /home/user/WeMTProxy/WeMTProxy.php <PORT> <SECRET> <TAG>```
